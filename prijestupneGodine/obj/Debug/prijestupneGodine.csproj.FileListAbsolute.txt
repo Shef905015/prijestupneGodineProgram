@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\prijestupneGodine\prijestupneGodine\bin\Debug\prijestupneGodine.exe.config
+C:\Users\ucenik\source\repos\prijestupneGodine\prijestupneGodine\bin\Debug\prijestupneGodine.exe
+C:\Users\ucenik\source\repos\prijestupneGodine\prijestupneGodine\bin\Debug\prijestupneGodine.pdb
+C:\Users\ucenik\source\repos\prijestupneGodine\prijestupneGodine\obj\Debug\prijestupneGodine.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\prijestupneGodine\prijestupneGodine\obj\Debug\prijestupneGodine.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\prijestupneGodine\prijestupneGodine\obj\Debug\prijestupneGodine.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\prijestupneGodine\prijestupneGodine\obj\Debug\prijestupneGodine.exe
+C:\Users\ucenik\source\repos\prijestupneGodine\prijestupneGodine\obj\Debug\prijestupneGodine.pdb
